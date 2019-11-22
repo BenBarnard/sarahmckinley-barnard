@@ -23,3 +23,5 @@ deploy:
     branch: master
   local_dir: public
   fqdn: benbarnard.bearstatistics.com
+  repo: BenBarnard/BenBarnard.github.io
+  target_branch: master
