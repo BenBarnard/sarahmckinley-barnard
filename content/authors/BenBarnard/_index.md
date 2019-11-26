@@ -18,24 +18,27 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the intersection of common sense and data science, statistics education, and the art of consulting on data science projects.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bayesian Methods
+- Statistical Programming
+- Data Science Consulting
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Statistical Sciences
+    institution: Baylor University
+    year: 2018
+  - course: MS in Statistical Sciences
+    institution: Baylor University
+    year: 2016
+  - course: MSEd in Exercise Physiology
+    institution: Baylor University
+    year: 2013
+  - course: BS in Exercise Science
+    institution: University of Texas at Arlington
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -56,9 +59,10 @@ social:
   link: https://github.com/BenBarnard
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Ben_Barnard.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "benbarnard87@gmail.com"
@@ -70,6 +74,4 @@ email: "benbarnard87@gmail.com"
 #- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Ben Barnard is a Data Scientist for Wells Fargo and a Statistics Instructor for the University of South Alabama. His research interests include Bayesian methods, statistical programming, teaching statistics, and using common sense in data science. He currently leads the development of several R and python packages for internal Wells Fargo use. Outside of work Ben likes to spend time with his family, working on the house, competing in triathlons, and speaking at conferences.  
