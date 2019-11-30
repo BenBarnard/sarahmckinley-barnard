@@ -9,7 +9,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://rWishart.bearstatistics.com/
+  url: https://www.bearstatistics.com/rWishart
 - icon: github
   icon_pack: fab
   name: source

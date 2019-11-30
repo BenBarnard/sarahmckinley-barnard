@@ -9,7 +9,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://likelihoodExplore.bearstatistics.com/
+  url: https://www.bearstatistics.com/likelihoodExplore
 - icon: github
   icon_pack: fab
   name: source
