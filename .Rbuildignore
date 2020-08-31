@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^placeholder\.Rcheck$
+^placeholder.*\.tar\.gz$
+^placeholder.*\.tgz$
+^\.editorconfig
+^\.travis\.yml
+^data/
+^static/
+^themes/
