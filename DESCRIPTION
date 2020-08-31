@@ -6,5 +6,5 @@ Imports: blogdown
 Remotes: rstudio/blogdown
 Description: Does not matter.
 License: None
-Author: Me
-Maintainer: Me
+Authors@R: person("Ben", "Barnard", email = "benbarnard87@gmail.com",
+  role = c("aut", "cre"))
