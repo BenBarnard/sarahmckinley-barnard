@@ -1,3 +1,8 @@
+language: R
+sudo: false
+cache: packages
+os:
+  - linux
 deploy:
   provider: pages
 skip_cleanup: true
