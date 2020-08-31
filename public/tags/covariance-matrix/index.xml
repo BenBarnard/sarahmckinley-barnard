@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covariance Matrix | BenBarnard.BearStatistics.com</title>
+    <link>https://benbarnard.bearstatistics.com/tags/covariance-matrix/</link>
+      <atom:link href="https://benbarnard.bearstatistics.com/tags/covariance-matrix/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covariance Matrix</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ben Barnard, 2020</copyright>
+    <image>
+      <url>https://benbarnard.bearstatistics.com/img/icon-192.png</url>
+      <title>Covariance Matrix</title>
+      <link>https://benbarnard.bearstatistics.com/tags/covariance-matrix/</link>
+    </image>
+    
+    <item>
+      <title>covTestR: Covariance Matrix Tests</title>
+      <link>https://benbarnard.bearstatistics.com/project/covtestr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/covtestr/</guid>
+      <description>&lt;p&gt;Testing functions for Covariance Matrices. These tests include high-dimension homogeneity of covariance matrix testing described by Schott (2007) &lt;a href=&#34;doi:10.1016/j.csda.2007.03.004&#34;&gt;doi:10.1016/j.csda.2007.03.004&lt;/a&gt; and high-dimensional one-sample tests of covariance matrix structure described by Fisher, et al. (2010) &lt;a href=&#34;doi:10.1016/j.jmva.2010.07.004&#34;&gt;doi:10.1016/j.jmva.2010.07.004&lt;/a&gt;. Covariance matrix tests use C++ to speed performance and allow larger data sets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BenBarnard.BearStatistics.com</title>
+    <link>https://benbarnard.bearstatistics.com/</link>
+      <atom:link href="https://benbarnard.bearstatistics.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>BenBarnard.BearStatistics.com</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ben Barnard, 2020</copyright>
+    <image>
+      <url>https://benbarnard.bearstatistics.com/img/icon-192.png</url>
+      <title>BenBarnard.BearStatistics.com</title>
+      <link>https://benbarnard.bearstatistics.com/</link>
+    </image>
+    
+    <item>
+      <title>covTestR: Covariance Matrix Tests</title>
+      <link>https://benbarnard.bearstatistics.com/project/covtestr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/covtestr/</guid>
+      <description>&lt;p&gt;Testing functions for Covariance Matrices. These tests include high-dimension homogeneity of covariance matrix testing described by Schott (2007) &lt;a href=&#34;doi:10.1016/j.csda.2007.03.004&#34;&gt;doi:10.1016/j.csda.2007.03.004&lt;/a&gt; and high-dimensional one-sample tests of covariance matrix structure described by Fisher, et al. (2010) &lt;a href=&#34;doi:10.1016/j.jmva.2010.07.004&#34;&gt;doi:10.1016/j.jmva.2010.07.004&lt;/a&gt;. Covariance matrix tests use C++ to speed performance and allow larger data sets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>likelihoodExplore: Likelihood Exploration</title>
+      <link>https://benbarnard.bearstatistics.com/project/likelihoodexplore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/likelihoodexplore/</guid>
+      <description>&lt;p&gt;Provides likelihood functions as defined by Fisher (1922) &lt;a href=&#34;doi:10.1098/rsta.1922.0009&#34;&gt;doi:10.1098/rsta.1922.0009&lt;/a&gt; and a function that creates likelihood functions from density functions. The functions are meant to aid in education of likelihood based methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>rWishart: Random Wishart Matrix Generation</title>
+      <link>https://benbarnard.bearstatistics.com/project/rwishart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/rwishart/</guid>
+      <description>&lt;p&gt;An expansion of R&amp;rsquo;s &amp;lsquo;stats&amp;rsquo; random wishart matrix generation. This package allows the user to generate singular, Uhlig and Harald (1994) &lt;a href=&#34;doi:10.1214/aos/1176325375&#34;&gt;doi:10.1214/aos/1176325375&lt;/a&gt;, and pseudo wishart, Diaz-Garcia, et al.(1997) &lt;a href=&#34;doi:10.1006/jmva.1997.1689&#34;&gt;doi:10.1006/jmva.1997.1689&lt;/a&gt;, matrices. In addition the user can generate wishart matrices with fractional degrees of freedom, Adhikari (2008) &lt;a href=&#34;doi:10.1061/(ASCE)0733-9399(2008)134:12(1029)&#34;&gt;doi:10.1061/(ASCE)0733-9399(2008)134:12(1029)&lt;/a&gt;, commonly used in volatility modeling. Users can also use this package to create random covariance matrices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
