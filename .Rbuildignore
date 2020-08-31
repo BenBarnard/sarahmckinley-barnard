@@ -8,3 +8,14 @@
 ^data/
 ^static/
 ^themes/
+^config/
+^config.toml$
+^content/
+^public/
+^docs/
+^index.Rmd$
+^LICENSE.md$
+^resources/
+^scripts/
+^update_academic.sh$
+^view.sh$
