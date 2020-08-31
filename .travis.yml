@@ -1,8 +1,9 @@
-language: R
-sudo: false
-cache: packages
-os:
-  - linux
+language: r
+dist: xenial
+latex: false
+branches:
+  only:
+    - master
 deploy:
   provider: pages
 skip_cleanup: true
