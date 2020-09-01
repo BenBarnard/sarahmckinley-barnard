@@ -18,6 +18,6 @@ deploy:
   on:
     branch: master
   local_dir: public
-  fqdn: benbarnard.bearstatistics.com
-  repo: BenBarnard/BenBarnard.github.io
+  fqdn: sarahmckinley-barnard.bearstatistics.com
+  repo: BenBarnard/sarahmckinley-barnard
   target_branch: gh-pages
