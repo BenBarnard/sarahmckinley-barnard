@@ -1,44 +1,38 @@
 ---
 # Display name
-name: Ben Barnard
+name: Sarah McKinley-Barnard
 
 # Username (this should match the folder name)
 authors:
-- BenBarnard
+- SarahMcKinley-Barnard
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Wells Fargo
+- name: University of South Alabama
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the intersection of common sense and data science, statistics education, and the art of consulting on data science projects.
+bio: 
 
 interests:
-- Bayesian Methods
-- Statistical Programming
-- Data Science Consulting
 
 education:
   courses:
-  - course: PhD in Statistical Sciences
-    institution: Baylor University
-    year: 2018
-  - course: MS in Statistical Sciences
+  - course: Ph.D., Kinesiology, Exercise, Nutrition, and Health Promotion
     institution: Baylor University
     year: 2016
-  - course: MSEd in Exercise Physiology
+  - course: M.S.Ed., Exercise Physiology
     institution: Baylor University
     year: 2013
-  - course: BS in Exercise Science
-    institution: University of Texas at Arlington
-    year: 2011
+  - course: B.S., Kinesiology
+    institution: University of Texas at El Paso
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:benbarnard87@gmail.com
+  link: mailto:mckinleysarahk@gmail.com
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/BenBarnard
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/BenBarnard
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -65,7 +59,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "benbarnard87@gmail.com"
+email: "mckinleysarahk@gmail.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -74,4 +68,4 @@ email: "benbarnard87@gmail.com"
 #- Visitors
 ---
 
-Ben Barnard is a Data Scientist for Wells Fargo and a Statistics Instructor for the University of South Alabama. His research interests include Bayesian methods, statistical programming, teaching statistics, and using common sense in data science. He currently leads the development of several R and python packages for internal Wells Fargo use. Outside of work Ben likes to spend time with his family, working on the house, competing in triathlons, and speaking at conferences.  
+Paragraph Bio about Sarah.

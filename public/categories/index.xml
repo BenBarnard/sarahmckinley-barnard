@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | BenBarnard.BearStatistics.com</title>
-    <link>https://benbarnard.bearstatistics.com/categories/</link>
-      <atom:link href="https://benbarnard.bearstatistics.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | SarahMcKinley-Barnard.BearStatistics.com</title>
+    <link>https://sarahmckinley-barnard.bearstatistics.com/categories/</link>
+      <atom:link href="https://sarahmckinley-barnard.bearstatistics.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ben Barnard, 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sarah McKinley-Barnard, 2020</copyright>
     <image>
-      <url>https://benbarnard.bearstatistics.com/img/icon-192.png</url>
+      <url>https://sarahmckinley-barnard.bearstatistics.com/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://benbarnard.bearstatistics.com/categories/</link>
+      <link>https://sarahmckinley-barnard.bearstatistics.com/categories/</link>
     </image>
     
   </channel>

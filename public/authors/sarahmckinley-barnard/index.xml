@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SarahMcKinley-Barnard.BearStatistics.com</title>
-    <link>https://sarahmckinley-barnard.bearstatistics.com/</link>
-      <atom:link href="https://sarahmckinley-barnard.bearstatistics.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sarahmckinley-barnard.bearstatistics.com/authors/sarahmckinley-barnard/</link>
+      <atom:link href="https://sarahmckinley-barnard.bearstatistics.com/authors/sarahmckinley-barnard/index.xml" rel="self" type="application/rss+xml" />
     <description>SarahMcKinley-Barnard.BearStatistics.com</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Sarah McKinley-Barnard, 2020</copyright>
     <image>
       <url>https://sarahmckinley-barnard.bearstatistics.com/img/icon-192.png</url>
       <title>SarahMcKinley-Barnard.BearStatistics.com</title>
-      <link>https://sarahmckinley-barnard.bearstatistics.com/</link>
+      <link>https://sarahmckinley-barnard.bearstatistics.com/authors/sarahmckinley-barnard/</link>
     </image>
     
   </channel>
