@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sarahmckinley-barnard.bearstatistics.com/</loc>
-  </url>
-  
-  <url>
     <loc>https://sarahmckinley-barnard.bearstatistics.com/authors/sarahmckinley-barnard/</loc>
   </url>
   
@@ -32,6 +28,10 @@
   
   <url>
     <loc>https://sarahmckinley-barnard.bearstatistics.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sarahmckinley-barnard.bearstatistics.com/</loc>
   </url>
   
   <url>
