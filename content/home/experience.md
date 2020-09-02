@@ -28,6 +28,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Taught graduate and undergraduate courses in the Health, Kinesiology, and Sport Department
+      
       * Graduate courses: Exercise Management for Diseases and Disabilities, Stress Testing &amp; Exercise Prescription, Cardiopulmonary Responses and Adaptations to Exercise
       * Undergraduate Courses: Fitness Assessment &amp; Exercise Prescription, Physiology of Exercise, Evaluation and Measurement in Physical Education, Concepts of Health and Fitness
 * Advised students on courses, careers in the field, and graduate school
