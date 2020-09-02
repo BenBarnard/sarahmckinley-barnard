@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wishart | BenBarnard.BearStatistics.com</title>
+    <link>https://benbarnard.bearstatistics.com/tags/wishart/</link>
+      <atom:link href="https://benbarnard.bearstatistics.com/tags/wishart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wishart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ben Barnard, 2020</copyright>
+    <image>
+      <url>https://benbarnard.bearstatistics.com/img/icon-192.png</url>
+      <title>Wishart</title>
+      <link>https://benbarnard.bearstatistics.com/tags/wishart/</link>
+    </image>
+    
+    <item>
+      <title>rWishart: Random Wishart Matrix Generation</title>
+      <link>https://benbarnard.bearstatistics.com/project/rwishart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/rwishart/</guid>
+      <description>&lt;p&gt;An expansion of R&amp;rsquo;s &amp;lsquo;stats&amp;rsquo; random wishart matrix generation. This package allows the user to generate singular, Uhlig and Harald (1994) &lt;a href=&#34;doi:10.1214/aos/1176325375&#34;&gt;doi:10.1214/aos/1176325375&lt;/a&gt;, and pseudo wishart, Diaz-Garcia, et al.(1997) &lt;a href=&#34;doi:10.1006/jmva.1997.1689&#34;&gt;doi:10.1006/jmva.1997.1689&lt;/a&gt;, matrices. In addition the user can generate wishart matrices with fractional degrees of freedom, Adhikari (2008) &lt;a href=&#34;doi:10.1061/(ASCE)0733-9399(2008)134:12(1029)&#34;&gt;doi:10.1061/(ASCE)0733-9399(2008)134:12(1029)&lt;/a&gt;, commonly used in volatility modeling. Users can also use this package to create random covariance matrices.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

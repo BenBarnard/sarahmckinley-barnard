@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>likelihood | BenBarnard.BearStatistics.com</title>
+    <link>https://benbarnard.bearstatistics.com/tags/likelihood/</link>
+      <atom:link href="https://benbarnard.bearstatistics.com/tags/likelihood/index.xml" rel="self" type="application/rss+xml" />
+    <description>likelihood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ben Barnard, 2020</copyright>
+    <image>
+      <url>https://benbarnard.bearstatistics.com/img/icon-192.png</url>
+      <title>likelihood</title>
+      <link>https://benbarnard.bearstatistics.com/tags/likelihood/</link>
+    </image>
+    
+    <item>
+      <title>likelihoodExplore: Likelihood Exploration</title>
+      <link>https://benbarnard.bearstatistics.com/project/likelihoodexplore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://benbarnard.bearstatistics.com/project/likelihoodexplore/</guid>
+      <description>&lt;p&gt;Provides likelihood functions as defined by Fisher (1922) &lt;a href=&#34;doi:10.1098/rsta.1922.0009&#34;&gt;doi:10.1098/rsta.1922.0009&lt;/a&gt; and a function that creates likelihood functions from density functions. The functions are meant to aid in education of likelihood based methods.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
