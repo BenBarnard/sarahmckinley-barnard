@@ -27,21 +27,12 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Taught graduate and undergraduate courses in the Health,
-Kinesiology, and Sport Department
-      * Graduate courses: Exercise Management for Diseases and
-Disabilities, Stress Testing &amp; Exercise Prescription,
-Cardiopulmonary Responses and Adaptations to Exercise
-      * Undergraduate Courses: Fitness Assessment &amp; Exercise
-Prescription, Physiology of Exercise, Evaluation and
-Measurement in Physical Education, Concepts of Health
-and Fitness
-* Advised students on courses, careers in the field, and graduate
-school
-* Conducted research on various topics related to Exercise
-Science
-* Served on various committees in the department and in the
-College of Education
+  * Taught graduate and undergraduate courses in the Health, Kinesiology, and Sport Department
+      * Graduate courses: Exercise Management for Diseases and Disabilities, Stress Testing &amp; Exercise Prescription, Cardiopulmonary Responses and Adaptations to Exercise
+      * Undergraduate Courses: Fitness Assessment &amp; Exercise Prescription, Physiology of Exercise, Evaluation and Measurement in Physical Education, Concepts of Health and Fitness
+* Advised students on courses, careers in the field, and graduate school
+* Conducted research on various topics related to Exercise Science
+* Served on various committees in the department and in the College of Education
 * Received grants/funding for research projects
   """
 
@@ -55,11 +46,8 @@ College of Education
   description = """
   Responsibilities include:
   
-  * Taught Anatomy and Physiology Lab Courses for the
-Department of Health, Human Performance, and Recreation
-majors
-  * Conducted research on various topics related to Exercise
-Science
+  * Taught Anatomy and Physiology Lab Courses for the Department of Health, Human Performance, and Recreation majors
+  * Conducted research on various topics related to Exercise Science
   """
   
   [[experience]]
@@ -72,13 +60,11 @@ Science
   description = """
   Responsibilities include:
   
-  * Wrote exercise prescriptions for patients in the cardiac
-rehab/pulmonary rehab program
+  * Wrote exercise prescriptions for patients in the cardiac rehab/pulmonary rehab program
   * Monitored patients exercising
   * Monitored patients’ EKGs while exercising
   * Diabetes management
-  * Educated patients on health, exercise, medications, and
-nutrition
+  * Educated patients on health, exercise, medications, and nutrition
   * Supervised maintenance (Phase IV) patients
   """
   
@@ -92,8 +78,7 @@ nutrition
   description = """
   Responsibilities include:
   
-  * Taught activity courses for the Department of Health, Human
-Performance, and Recreation
+  * Taught activity courses for the Department of Health, Human Performance, and Recreation
   """
   
   [[experience]]
@@ -106,8 +91,7 @@ Performance, and Recreation
   description = """
   Responsibilities include:
   
-  * Wrote exercise prescriptions for patients in the cardiac rehab
-program
+  * Wrote exercise prescriptions for patients in the cardiac rehab program
   * Monitored patients exercising
   * Monitored patients’ EKGs while exercising
   * Conducted stress testing
